@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="appsettings.Development.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="bundleconfig.json" t="Include" />
+      <e p="global.json" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.1" t="Include">
+            <e p="Portfolio.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Pages" t="Include">
+        <e p="_ViewImports.cshtml" t="Include" />
+        <e p="_ViewStart.cshtml" t="Include" />
+        <e p="About.cshtml" t="Include" />
+        <e p="About.cshtml.cs" t="Include" />
+        <e p="Contact.cshtml" t="Include" />
+        <e p="Contact.cshtml.cs" t="Include" />
+        <e p="Error.cshtml" t="Include" />
+        <e p="Error.cshtml.cs" t="Include" />
+        <e p="Index.cshtml" t="Include" />
+        <e p="Index.cshtml.cs" t="Include" />
+        <e p="Projects.cshtml" t="Include" />
+        <e p="Projects.cshtml.cs" t="Include" />
+        <e p="Shared" t="Include">
+          <e p="_CookieConsentPartial.cshtml" t="Include" />
+          <e p="_Layout.cshtml" t="Include" />
+          <e p="_ValidationScriptsPartial.cshtml" t="Include" />
+        </e>
+      </e>
+      <e p="Portfolio.csproj" t="IncludeRecursive" />
+      <e p="Portfolio.sln" t="IncludeFlat" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+      <e p="Startup.cs" t="Include" />
+      <e p="wwwroot" t="Include">
+        <e p="css" t="Include">
+          <e p="site.css" t="Include" />
+          <e p="site.min.css" t="Include" />
+        </e>
+        <e p="favicon.ico" t="Include" />
+        <e p="images" t="Include">
+          <e p="banner1.svg" t="Include" />
+          <e p="banner2.svg" t="Include" />
+          <e p="banner3.svg" t="Include" />
+          <e p="beerography.png" t="Include" />
+          <e p="brewdogger.png" t="Include" />
+          <e p="budgetpeeker.png" t="Include" />
+          <e p="carousel" t="Include">
+            <e p="city-hall.jpg" t="Include" />
+            <e p="mt-shasta.jpg" t="Include" />
+            <e p="shsatalake.png" t="Include" />
+            <e p="sundial.jpg" t="Include" />
+            <e p="whiskeytown.png" t="Include" />
+          </e>
+          <e p="csharp.png" t="Include" />
+          <e p="fallriver.jpg" t="Include" />
+          <e p="me.jpg" t="Include" />
+          <e p="profilepic.jpg" t="Include" />
+          <e p="readdit.jpg" t="Include" />
+        </e>
+        <e p="js" t="Include">
+          <e p="site.js" t="Include" />
+          <e p="site.min.js" t="Include" />
+        </e>
+        <e p="Resume_JM.pdf" t="Include" />
+      </e>
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.1/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_Portfolio.-1630648680.00" t="ExcludeRecursive" />
+  </component>
+</project>

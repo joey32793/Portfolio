@@ -1,0 +1,10 @@
+/Users/joey/asp/pages-apps/Portfolio/bin/Debug/netcoreapp2.1/Portfolio.deps.json
+/Users/joey/asp/pages-apps/Portfolio/bin/Debug/netcoreapp2.1/Portfolio.runtimeconfig.json
+/Users/joey/asp/pages-apps/Portfolio/bin/Debug/netcoreapp2.1/Portfolio.runtimeconfig.dev.json
+/Users/joey/asp/pages-apps/Portfolio/bin/Debug/netcoreapp2.1/Portfolio.dll
+/Users/joey/asp/pages-apps/Portfolio/bin/Debug/netcoreapp2.1/Portfolio.pdb
+/Users/joey/asp/pages-apps/Portfolio/obj/Debug/netcoreapp2.1/Portfolio.csproj.CoreCompileInputs.cache
+/Users/joey/asp/pages-apps/Portfolio/obj/Debug/netcoreapp2.1/Portfolio.AssemblyInfoInputs.cache
+/Users/joey/asp/pages-apps/Portfolio/obj/Debug/netcoreapp2.1/Portfolio.AssemblyInfo.cs
+/Users/joey/asp/pages-apps/Portfolio/obj/Debug/netcoreapp2.1/Portfolio.dll
+/Users/joey/asp/pages-apps/Portfolio/obj/Debug/netcoreapp2.1/Portfolio.pdb

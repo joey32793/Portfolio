@@ -1,0 +1,109 @@
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification 
+for details on configuring this project to bundle and minify static web assets. */
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Carousel */
+.carousel-caption p {
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+/* Make .svg files in the carousel display properly in older browsers */
+.carousel-inner .item img[src$=".svg"] {
+    width: 100%;
+}
+
+/* QR code generator */
+#qrCode {
+    margin: 15px;
+}
+
+/* Hide/rearrange for smaller screens */
+@media screen and (max-width: 767px) {
+    /* Hide captions */
+    .carousel-caption {
+        display: none;
+    }
+}
+/*-----------------------*/
+/* Hello world animation */
+/*-----------------------*/
+
+.blink {
+    animation: blinker 1s step-start infinite;
+}
+
+@keyframes blinker {
+    50% {
+        opacity: 0;
+    }
+}
+
+.monospace {
+    font-family: 'VT323', monospace;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 100%;
+    animation: type 3s steps(60, end);
+}
+
+@keyframes type{
+    from { width: 0; }
+}
+
+/*-----------------------*/
+
+
+/* Front page self portrait */
+img {
+    max-height: 200px;
+    max-width: 200px;
+}
+
+/*-----------------------*/
+/*        Carousel       */
+/*-----------------------*/
+
+#mainCarousel img {
+    max-height: 400px;
+    width: 100%;
+}
+
+/*-----------------------*/
+
+
+/*-----------------------*/
+/*    FA Personal links  */
+/*-----------------------*/
+
+.fab:hover, .far:hover, .fas:hover, img:hover {
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.fab, .far, .fas, img {
+    -webkit-transition-duration: 200ms;
+    -moz-transition-duration: 200ms;
+    -ms-transition-duration: 200ms;
+    -o-transition-duration: 200ms;
+    transition-duration: 200ms;
+    transition-timing-function: ease-in-out;
+    cursor: pointer;
+}
+
+.courier {
+    font-family: "Courier New", sans-serif;
+}

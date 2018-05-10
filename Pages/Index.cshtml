@@ -1,0 +1,66 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Civic Coder";
+}
+
+<div class="row">
+    <div class="col-md-3"></div>
+    <div class="col-md-9">
+        <h1 class="monospace">Console.WriteLine("Hello world!");<span class="blink">|</span></h1>
+    </div>
+</div>
+<div class="row text-center">
+    <div class="col-sm-3">
+        <div class="card mb-3">
+            <div class="card-body">
+                <h5 class="card-title">About me</h5>
+                <p class="card-text">A little about where I'm from, why I live and breathe software, and my undying passion for Mexican food (possibly).</p>
+                <a href="/About" class="btn btn-info">About</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Projects</h5>
+                <p class="card-text">Ranging from applications built with C#, Python, and all things web.</p>
+                <a href="/Projects" class="btn btn-info">Projects</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-6">
+        <h1>Hi,</h1>
+        <p>
+            I'm Joey, and I like building things. I'm a science nerd/amateur astrophysicist turned .NET enthusiast and aspiring 
+            software engineer. As a trained technical problem solver, there is nothing I love more than a challenge.
+            During my undergrad, I developed a passion for programming, and have since formed a love for all things code: planning it,
+            preparing it, or implementing it, there's not a facet of software I don't find absolutely fascinating. I want to turn
+            my passion into a rewarding lifelong career, providing software that solves real world problems and benefits not only
+            clients, but the community as a whole.
+        </p>
+        <img class="img-thumbnail" src="images/profilepic.jpg"/>
+        <br/>
+    </div>
+    
+    <div class="col-sm-3">
+        <div class="card mb-3">
+            <div class="card-body">
+                <h5 class="card-title">LinkedIn : GitHub</h5>
+                <p class="card-text">Find me on LinkedIn or Checkout some of my repositories and let me know what you think.</p>
+                <i style="padding-right: 10px;" onclick="window.open('https://linkedin.com/in/JoeyMckenzie')" class="fab fa-linkedin fa-3x"></i>
+                <i style="padding-left: 10px;" onclick="window.open('https://github.com/joey32793')" class="fab fa-github fa-3x"></i>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Resume : Email</h5>
+                <p class="card-text">Download a copy of resume, or shoot me an email.</p>
+                <i onclick="window.open('Resume_JM.pdf')" style="padding-right: 10px;" class="fas fa-address-card fa-3x"></i>
+                <i onclick="window.open('mailto:joey.mckenzie27@gmail.com?subject=Hey Joey!&body=Let\'s grab a beer and talk all things web sometime.')" style="padding-left: 10px;" class="fas fa-envelope fa-3x"></i>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
