@@ -1,74 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c499d908-1124-4c97-8ac6-a17d326bb84b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Portfolio/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Portfolio/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Portfolio/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Portfolio/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Portfolio/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/About.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/About.cshtml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/Contact.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/Contact.cshtml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/Error.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/Error.cshtml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/Index.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/Index.cshtml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/Projects.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/Projects.cshtml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/Shared/_CookieConsentPartial.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/Shared/_Layout.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/Shared/_ValidationScriptsPartial.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/_ViewImports.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/_ViewStart.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio.sln.DotSettings.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Startup.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/Portfolio.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/Portfolio.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/Portfolio.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/Portfolio.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/Portfolio.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bundleconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Portfolio.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Portfolio.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Portfolio.Views.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Portfolio.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Portfolio.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Portfolio.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Portfolio.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Portfolio.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Portfolio.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Portfolio.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Portfolio.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Portfolio.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wwwroot/Resume_JM.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wwwroot/css/site.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wwwroot/css/site.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wwwroot/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wwwroot/images/banner1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wwwroot/images/banner2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wwwroot/images/banner3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wwwroot/images/carousel/city-hall.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wwwroot/images/carousel/mt-shasta.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wwwroot/images/carousel/shsatalake.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wwwroot/images/carousel/sundial.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wwwroot/images/carousel/whiskeytown.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wwwroot/images/csharp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wwwroot/images/fallriver.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wwwroot/images/me.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wwwroot/images/profilepic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wwwroot/js/site.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wwwroot/js/site.min.js" afterDir="false" />
-    </list>
+    <list default="true" id="c499d908-1124-4c97-8ac6-a17d326bb84b" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -126,11 +59,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Portfolio.csproj" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Portfolio.csproj" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Portfolio.csproj">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="8" column="86" selection-start-line="8" selection-start-column="86" selection-end-line="8" selection-end-column="86" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="global.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/global.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -220,6 +162,7 @@
         <option value="$PROJECT_DIR$/Pages/Shared/_Layout.cshtml" />
         <option value="$PROJECT_DIR$/Pages/Projects.cshtml" />
         <option value="$PROJECT_DIR$/Portfolio.csproj" />
+        <option value="$PROJECT_DIR$/global.json" />
       </list>
     </option>
   </component>
@@ -316,12 +259,12 @@
       <option name="presentableId" value="Default" />
       <updated>1525890507622</updated>
       <workItem from="1525890512675" duration="9742000" />
-      <workItem from="1525974997849" duration="12691000" />
+      <workItem from="1525974997849" duration="13261000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22433000" />
+    <option name="totallyTimeSpent" value="23003000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -334,6 +277,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="14" />
       <window_info anchor="right" id="Errors In Solution" order="1" />
@@ -344,8 +288,8 @@
       <window_info anchor="bottom" id="Run" order="10" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="6" />
-      <window_info active="true" anchor="bottom" id="NuGet" order="0" sideWeight="0.49946752" visible="true" weight="0.32916668" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.16986156" />
+      <window_info anchor="bottom" id="NuGet" order="0" sideWeight="0.49946752" visible="true" weight="0.32916668" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.16986156" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="0" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
@@ -654,6 +598,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="86" selection-start-line="8" selection-start-column="86" selection-end-line="8" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/global.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
         </state>
       </provider>
     </entry>
