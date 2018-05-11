@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c499d908-1124-4c97-8ac6-a17d326bb84b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/wwwroot/Resume_JM.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/wwwroot/Resume_JM.pdf" afterDir="false" />
-    </list>
+    <list default="true" id="c499d908-1124-4c97-8ac6-a17d326bb84b" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="site.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="site.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wwwroot/css/site.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="883">
-              <caret line="107" column="43" selection-start-line="107" selection-start-column="43" selection-end-line="107" selection-end-column="43" />
+            <state relative-caret-position="410">
+              <caret line="95" selection-start-line="95" selection-end-line="104" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -102,7 +100,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_Layout.cshtml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_Layout.cshtml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Pages/Shared/_Layout.cshtml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="81">
@@ -291,12 +289,12 @@
       <option name="presentableId" value="Default" />
       <updated>1525890507622</updated>
       <workItem from="1525890512675" duration="9742000" />
-      <workItem from="1525974997849" duration="13580000" />
+      <workItem from="1525974997849" duration="14704000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23322000" />
+    <option name="totallyTimeSpent" value="24446000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -308,7 +306,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="14" />
@@ -320,8 +318,8 @@
       <window_info anchor="bottom" id="Run" order="10" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="6" />
-      <window_info anchor="bottom" id="NuGet" order="0" sideWeight="0.49946752" visible="true" weight="0.32916668" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.16986156" />
+      <window_info anchor="bottom" id="NuGet" order="0" sideWeight="0.49946752" weight="0.46470588" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25767368" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="0" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
@@ -515,13 +513,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wwwroot/css/site.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="883">
-          <caret line="107" column="43" selection-start-line="107" selection-start-column="43" selection-end-line="107" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Pages/Index.cshtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="665">
@@ -658,6 +649,13 @@
             <marker date="1525990236731" expanded="true" signature="2674:3413" ph="&lt;environment.../&gt;" />
             <marker date="1525990236731" expanded="true" signature="3418:4161" ph="&lt;environment.../&gt;" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wwwroot/css/site.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="95" selection-start-line="95" selection-end-line="104" selection-end-column="1" />
         </state>
       </provider>
     </entry>
