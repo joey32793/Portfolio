@@ -66,6 +66,7 @@
           <e p="me.jpg" t="Include" />
           <e p="profilepic.jpg" t="Include" />
           <e p="readdit.jpg" t="Include" />
+          <e p="salarypeeker.png" t="Include" />
         </e>
         <e p="js" t="Include">
           <e p="site.js" t="Include" />

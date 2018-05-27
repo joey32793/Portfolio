@@ -28,16 +28,16 @@
       "dependencies": {
         "BuildBundlerMinifier": {
           "target": "Package",
-          "version": "[2.7.385, )"
+          "version": "[2.8.391, )"
         },
         "Microsoft.AspNetCore.App": {
           "target": "Package",
-          "version": "[2.1.0-preview1-final, )"
+          "version": "[2.1.0-rc1-final, )"
         },
         "Microsoft.NETCore.App": {
           "suppressParent": "All",
           "target": "Package",
-          "version": "[2.1.0-rc1, )",
+          "version": "[2.1.0-preview1-26216-03, )",
           "autoReferenced": true
         }
       },
