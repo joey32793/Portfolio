@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c499d908-1124-4c97-8ac6-a17d326bb84b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Portfolio/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Portfolio/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Portfolio/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Portfolio/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pages/Projects.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/Projects.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio.sln.DotSettings.user" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/Portfolio.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/Portfolio.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/Portfolio.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/Portfolio.runtimeconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Portfolio.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Portfolio.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Portfolio.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Portfolio.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Portfolio.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Portfolio.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Portfolio.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Portfolio.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Portfolio.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Portfolio.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
-    </list>
+    <list default="true" id="c499d908-1124-4c97-8ac6-a17d326bb84b" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,11 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Projects.cshtml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Projects.cshtml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Pages/Projects.cshtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="669">
-              <caret line="52" column="75" lean-forward="true" selection-start-line="52" selection-start-column="75" selection-end-line="52" selection-end-column="75" />
+            <state relative-caret-position="233">
+              <caret line="43" column="33" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
               <folding>
                 <marker date="1527460193219" expanded="true" signature="27:67" ph="@..." />
                 <marker date="1527460193219" expanded="true" signature="69:4218" ph="&lt;div.../&gt;" />
@@ -75,15 +60,6 @@
                 <marker date="1527460193219" expanded="true" signature="3602:3781" ph="&lt;a.../&gt;" />
                 <marker date="1527460193219" expanded="true" signature="3889:4185" ph="&lt;p.../&gt;" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Portfolio.csproj" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Portfolio.csproj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="72" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="72" />
             </state>
           </provider>
         </entry>
@@ -206,10 +182,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="1057" />
+    <option name="width" value="1280" />
+    <option name="height" value="777" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -283,12 +259,12 @@
       <workItem from="1525890512675" duration="9742000" />
       <workItem from="1525974997849" duration="14704000" />
       <workItem from="1527293345596" duration="1347000" />
-      <workItem from="1527460105005" duration="246000" />
+      <workItem from="1527460105005" duration="1043000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26039000" />
+    <option name="totallyTimeSpent" value="26836000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -300,7 +276,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="14" />
@@ -311,9 +287,9 @@
       <window_info anchor="bottom" id="REST Client" order="4" />
       <window_info anchor="bottom" id="Run" order="10" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="6" visible="true" weight="0.32916668" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="6" visible="true" weight="0.46470588" />
       <window_info anchor="bottom" id="NuGet" order="0" sideWeight="0.49946752" weight="0.23958333" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.17039403" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2584814" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="0" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
@@ -773,10 +749,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Portfolio.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="87" selection-start-line="9" selection-start-column="87" selection-end-line="9" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Pages/Projects.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="669">
-          <caret line="52" column="75" lean-forward="true" selection-start-line="52" selection-start-column="75" selection-end-line="52" selection-end-column="75" />
+        <state relative-caret-position="233">
+          <caret line="43" column="33" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
           <folding>
             <marker date="1527460193219" expanded="true" signature="27:67" ph="@..." />
             <marker date="1527460193219" expanded="true" signature="69:4218" ph="&lt;div.../&gt;" />
@@ -798,13 +781,6 @@
             <marker date="1527460193219" expanded="true" signature="3602:3781" ph="&lt;a.../&gt;" />
             <marker date="1527460193219" expanded="true" signature="3889:4185" ph="&lt;p.../&gt;" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Portfolio.csproj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="72" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="72" />
         </state>
       </provider>
     </entry>
