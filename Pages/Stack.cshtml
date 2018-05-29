@@ -1,0 +1,187 @@
+﻿@page
+@model StackModel
+@{
+    ViewData["Title"] = "Stack";
+}
+
+<ul id="stackTabs" class="nav nav-tabs justify-content-center">
+    <li class="nav-item">
+        <a class="nav-link active show" data-toggle="tab" href="#databases">Databases</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" data-toggle="tab" href="#backend">Backend</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" data-toggle="tab" href="#frontend">Frontend</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" data-toggle="tab" href="#uiux">UI/UX</a>
+    </li>
+</ul>   
+
+<div id="tabContent" class="tab-content">
+    <div class="tab-pane fade active show" id="databases">
+        <br class="my-0"/>
+        <div class="row text-center">
+            <div class="col-sm-6">
+                <h4>SQL RDMS Preferences</h4>
+                <hr/>
+                <div class="row">
+                    <div class="col-sm-6">
+                        @* SQL Server *@
+                        <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2017" target="_blank">
+                            <img src="images/stack/sql-server.png" class="img-fluid" alt="SQL Server"/>
+                        </a>
+                    </div>
+                    <div class="col-sm-6">
+                        @* SQLite3 *@
+                        <a href="http://sqlite.org/index.html" target="_blank">
+                            <img src="images/stack/sqlite3.png" class="img-fluid" alt="SQLite3"/>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                @* Entity Framework Core *@
+                <h4>ORM Layer</h4>
+                <hr/>
+                <a href="https://docs.microsoft.com/en-us/ef/core/" target="_blank">
+                    <img src="images/stack/ef-core.png" class="img-fluid" alt="EF Core"/>
+                </a>
+            </div>
+            <div class="col-sm-3">
+                @* Datagrip *@
+                <h4>SQL IDE</h4>
+                <hr/>
+                <a href="https://www.jetbrains.com/datagrip/" target="_blank">
+                    <img src="images/stack/datagrip2.jpg" class="img-fluid" alt="Datagrip"/>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="tab-pane fade" id="backend">
+        <br class="my-1"/>
+        <div class="row text-center">
+            <div class="col-sm-6">
+                <h4>Proficient Frameworks</h4>
+                <hr/>
+                <div class="row align-items-center h-100">
+                    <div class="col-sm-6">
+                        @* .NET Core *@
+                        <a href="https://www.microsoft.com/net" target="_blank">
+                            <img src="images/stack/dotnet-core.png" class="img-fluid" alt=".NET Core"/>
+                        </a>
+                    </div>
+                    <div class="col-sm-6">
+                        @* ASP.NET Core *@
+                        <a href="https://www.asp.net/" target="_blank">
+                            <img src="images/stack/asp-dotnet-core.jpg" class="img-fluid" alt="ASP.NET Core"/>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-sm-6">
+                <h4>Knowledable Frameworks</h4>
+                <hr/>
+                <div class="row align-items-center h-100">
+                    <div class="col-sm-6">
+                        @* Django *@
+                        <a href="https://www.djangoproject.com/" target="_blank">
+                            <img src="images/stack/django.png" class="img-fluid" alt="Django"/>
+                        </a>
+                    </div>
+                    <div class="col-sm-6">
+                        @* Node *@
+                        <a href="https://nodejs.org/en/" target="_blank">
+                            <img src="images/stack/node.png" class="img-fluid" alt="Nodejs"/>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="tab-pane fade" id="frontend">
+        <br class="my-1"/>
+        <div class="row text-center">
+            <div class="col-sm-6">
+                <h4>ASP.NET Core View Engine</h4>
+                <hr/>
+                <div class="row align-items-center h-100">
+                    <div class="col-sm-6">
+                        @* MVC *@
+                        <a href="https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-2.0" target="_blank">
+                            <img src="images/stack/mvc.png" class="img-fluid" alt="MVC"/>
+                        </a>
+                    </div>
+                    <div class="col-sm-6">
+                        @* Razor *@
+                        <a href="https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-2.0" target="_blank">
+                            <img src="images/stack/Razor.png" class="img-fluid" alt="Razor"/>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <h4>JavaScript Frameworks & Libraries</h4>
+                <hr/>
+                <div class="row align-items-center h-100">
+                    <div class="col-sm-6">
+                        @* Angular *@
+                        <a href="https://angular.io/" target="_blank">
+                            <img src="images/stack/angular.png" class="img-fluid" alt="Angular"/>
+                        </a>
+                    </div>
+                    <div class="col-sm-6">
+                        @* jQuery *@
+                        <a href="http://jquery.com/" target="_blank">
+                            <img src="images/stack/jquery.gif" class="img-fluid" alt="jQuery"/>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="tab-pane fade" id="uiux">
+        <br class="my-1"/>
+        <div class="row text-center">
+            <div class="col-sm-6">
+                <h4>Web Essentials</h4>
+                <hr/>
+                <div class="row align-items-center h-100">
+                    <div class="col-sm-6">
+                        @* HTML5 *@
+                        <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">
+                            <img src="images/stack/html5.png" class="img-fluid" alt="HTML5"/>
+                        </a>
+                    </div>
+                    <div class="col-sm-6">
+                        @* CSS3 *@
+                        <a href="http://www.css3.info/" target="_blank">
+                            <img src="images/stack/css3.png" class="img-fluid" alt="CSS3"/>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <h4>CSS Frameworks</h4>
+                <hr/>
+                <div class="row align-items-center h-100">
+                    <div class="col-sm-6">
+                        @* Bootstrap *@
+                        <a href="http://getbootstrap.com/" target="_blank">
+                            <img src="images/stack/bootstrap.jpg" class="img-fluid" alt="Bootstrap"/>
+                        </a>
+                    </div>
+                    <div class="col-sm-6">
+                        @* jQuery *@
+                        <a href="https://sass-lang.com/" target="_blank">
+                            <img src="images/stack/sass.png" class="img-fluid" alt="Sass"/>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<br class="my-4"/>

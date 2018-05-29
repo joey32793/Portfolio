@@ -33,6 +33,8 @@
           <e p="_Layout.cshtml" t="Include" />
           <e p="_ValidationScriptsPartial.cshtml" t="Include" />
         </e>
+        <e p="Stack.cshtml" t="Include" />
+        <e p="Stack.cshtml.cs" t="Include" />
       </e>
       <e p="Portfolio.csproj" t="IncludeRecursive" />
       <e p="Portfolio.sln" t="IncludeFlat" />
@@ -48,9 +50,6 @@
         </e>
         <e p="favicon.ico" t="Include" />
         <e p="images" t="Include">
-          <e p="banner1.svg" t="Include" />
-          <e p="banner2.svg" t="Include" />
-          <e p="banner3.svg" t="Include" />
           <e p="beerography.png" t="Include" />
           <e p="brewdogger.png" t="Include" />
           <e p="budgetpeeker.png" t="Include" />
@@ -67,6 +66,27 @@
           <e p="profilepic.jpg" t="Include" />
           <e p="readdit.jpg" t="Include" />
           <e p="salarypeeker.png" t="Include" />
+          <e p="stack" t="Include">
+            <e p="angular.png" t="Include" />
+            <e p="asp-dotnet-core.jpg" t="Include" />
+            <e p="bootstrap.jpg" t="Include" />
+            <e p="bootstrap2.png" t="Include" />
+            <e p="css3.png" t="Include" />
+            <e p="datagrip.png" t="Include" />
+            <e p="datagrip2.jpg" t="Include" />
+            <e p="django.png" t="Include" />
+            <e p="dotnet-core.png" t="Include" />
+            <e p="ef-core.png" t="Include" />
+            <e p="html5.png" t="Include" />
+            <e p="jquery.gif" t="Include" />
+            <e p="mvc.png" t="Include" />
+            <e p="node.png" t="Include" />
+            <e p="Razor.png" t="Include" />
+            <e p="sass.png" t="Include" />
+            <e p="sql-azure.png" t="Include" />
+            <e p="sql-server.png" t="Include" />
+            <e p="sqlite3.png" t="Include" />
+          </e>
         </e>
         <e p="js" t="Include">
           <e p="site.js" t="Include" />
