@@ -43,6 +43,7 @@
         <e p="launchSettings.json" t="Include" />
       </e>
       <e p="Startup.cs" t="Include" />
+      <e p="Temp.cshtml" t="Include" />
       <e p="wwwroot" t="Include">
         <e p="css" t="Include">
           <e p="site.css" t="Include" />
@@ -61,6 +62,7 @@
             <e p="whiskeytown.png" t="Include" />
           </e>
           <e p="csharp.png" t="Include" />
+          <e p="fallriver copy.jpeg" t="Include" />
           <e p="fallriver.jpg" t="Include" />
           <e p="me.jpg" t="Include" />
           <e p="profilepic.jpg" t="Include" />
@@ -78,11 +80,17 @@
             <e p="dotnet-core.png" t="Include" />
             <e p="ef-core.png" t="Include" />
             <e p="html5.png" t="Include" />
+            <e p="java.png" t="Include" />
             <e p="jquery.gif" t="Include" />
+            <e p="js-logo.png" t="Include" />
             <e p="mvc.png" t="Include" />
             <e p="node.png" t="Include" />
+            <e p="postgresql_logo-555px.png" t="Include" />
+            <e p="python.png" t="Include" />
             <e p="Razor.png" t="Include" />
             <e p="sass.png" t="Include" />
+            <e p="spring-mvc-logo.png" t="Include" />
+            <e p="spring.png" t="Include" />
             <e p="sql-azure.png" t="Include" />
             <e p="sql-server.png" t="Include" />
             <e p="sqlite3.png" t="Include" />

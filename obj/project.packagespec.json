@@ -32,7 +32,7 @@
         },
         "Microsoft.AspNetCore.App": {
           "target": "Package",
-          "version": "[2.1.0-rc1-final, )"
+          "version": "[2.1.0, )"
         },
         "Microsoft.NETCore.App": {
           "suppressParent": "All",
