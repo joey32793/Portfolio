@@ -31,3 +31,4 @@
 /Users/joey/asp/pages-apps/Portfolio/obj/Debug/netcoreapp2.1/Portfolio.Views.pdb
 /Users/joey/asp/pages-apps/Portfolio/obj/Debug/netcoreapp2.1/Razor/Pages/Stack.g.cshtml.cs
 /Users/joey/asp/pages-apps/Portfolio/obj/Debug/netcoreapp2.1/Razor/Temp.g.cshtml.cs
+/Users/joey/asp/pages-apps/Portfolio/obj/Debug/netcoreapp2.1/Portfolio.csproj.CopyComplete
